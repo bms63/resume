@@ -1,14 +1,32 @@
 # Degree
-- degree: Associates Degree, Business Management
-  uni: Springfield College
-  year: 1984 &mdash; 1986
+- degree: Masters in Science, Statistics
+  uni: Pennsylvania State University
+  year: Fall 2015-Spring 2018
   awards:
-    - award: Quickest to fall asleep
-    - award: Fastest donut eater
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award:     
+    - award: 
+  summary: 
 
-- degree: High School Diploma
-  uni: Springfield High
-  year: 1984
-  award: Least likely to graduate College
-  summary: You can choose to have either a single or multiple awards
+- degree: Instructional I Teaching Certificate
+  uni: Drexel University		
+  year: Summer 2009 –Fall 2010
+  award: 
+  summary: 
+
+- degree: Bachelor of Science, Economics
+  uni: Florida State University		
+  year: Fall 2000-Summer 2004
+  award: 
+  summary: 
+
+- degree: R and Data Science MOOC Courses
+  uni: Coursera and edX	
+  year: March 2014 - Ongoing
+  award: 
+  summary: 
+
+- degree: Programming and Software
+  uni: Coursera and edX	
+  year: March 2014 - Ongoing
+  award: 
+  summary: 
