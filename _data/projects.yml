@@ -5,7 +5,7 @@
 - project: Wildfire Report
   role: Assignmnet
   duration: Fall 2015
-  url: “github.com/”
+  # url: “#”
   description: Regression Models
 
 # Seismic Activity
