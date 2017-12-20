@@ -2,15 +2,25 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # Wildfire Report
-- project: Wildfire Report
-  role: Assignmnet
-  duration: Fall 2015
-  # url: “#”
-  description: Regression Models
+- project: Short blurb about this assignment
+  role: Assignment for Regression Models
+  url: “#”
+  description: Short blurb about this assignment
 
 # Seismic Activity
 - project: Seismic Activity
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: Data Mining Class
+  role: Project for Data Mining Class
+  url: "#"
+  description: Short blurb about this assignment
+
+# French Fry Analysis
+- project: French Fry Analysis
+  role: Project for Statistical Consulting Class
+  url: "#"
+  description: Short blurb about this assignment
+
+# Rents in Munich
+- project: Rents in Munich
+  role: Assignment for Spatial Statistics
+  url: "#"
+  description: Short blurb about this assignment
