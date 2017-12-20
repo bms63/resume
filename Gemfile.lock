@@ -203,6 +203,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  minima
 
 BUNDLED WITH
    1.16.0
