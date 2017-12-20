@@ -4,7 +4,7 @@
 # Wildfire Report
 - project: Short blurb about this assignment
   role: Assignment for Regression Models
-  url: “#”
+  url: https://github.com
   description: Short blurb about this assignment
 
 # Seismic Activity
@@ -22,5 +22,5 @@
 # Rents in Munich
 - project: Rents in Munich
   role: Assignment for Spatial Statistics
-  url: "#"
+  url: https://rpubs.com/bbs5179/337764
   description: Short blurb about this assignment
