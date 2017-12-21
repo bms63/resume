@@ -2,25 +2,37 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # Wildfire Report
-- project: Short blurb about this assignment
+- project: Wildfire Report
   role: Assignment for Regression Models
   url: https://github.com
-  description: Short blurb about this assignment
+  description: Logistic regression, cross validation, regularization
 
 # Seismic Activity
 - project: Seismic Activity
   role: Project for Data Mining Class
   url: "#"
-  description: Short blurb about this assignment
+  description: Classification, linear discriminant and quadratic analysis, random forest and boosting
 
 # French Fry Analysis
 - project: French Fry Analysis
   role: Project for Statistical Consulting Class
   url: "#"
-  description: Short blurb about this assignment
+  description: Data cleaning and processing, variable selection through exploratory data analysis, ANOVA
 
 # Rents in Munich
 - project: Rents in Munich
   role: Assignment for Spatial Statistics
+  url: https://rpubs.com/bbs5179/337764
+  description: Spatial statistics, bayesian modelling, gibbs sampler, MCMC
+
+# Wine Quality
+- project: Wine Quality
+  role: Assignment for Regression Models
+  url: https://rpubs.com/bbs5179/337764
+  description: Short blurb about this assignment
+
+# Thesis - K-means and Kernel Ridge Regression
+- project: K-means and Kernel Ridge Regression
+  role: Masters Thesis
   url: https://rpubs.com/bbs5179/337764
   description: Short blurb about this assignment
