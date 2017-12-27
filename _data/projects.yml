@@ -19,10 +19,10 @@
   url: "#"
   description: Data cleaning and processing, variable selection through exploratory data analysis, ANOVA
 
-# Rents in Munich
-- project: Rents in Munich
+# Doves in Missouri
+- project: Doves in Missouri
   role: Assignment for Spatial Statistics
-  url: https://rpubs.com/bbs5179/337764
+  url: http://rpubs.com/bms63/344748
   description: Spatial statistics, bayesian modelling, gibbs sampler, MCMC
 
 # Wine Quality
