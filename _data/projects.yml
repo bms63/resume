@@ -10,7 +10,7 @@
 # Seismic Activity
 - project: Seismic Activity
   role: Project for Data Mining Class
-  url: "#"
+  url: http://rpubs.com/bms63/345364
   description: Classification, linear discriminant and quadratic analysis, random forest and boosting
 
 # French Fry Analysis
