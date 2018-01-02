@@ -29,10 +29,16 @@
 - project: Wine Quality
   role: Assignment for Regression Models
   url: http://rpubs.com/bms63/345891
-  description: Short blurb about this assignment
+  description: Masters Applied Qualifying Exam
 
 # Thesis - K-means and Kernel Ridge Regression
 - project: K-means and Kernel Ridge Regression
   role: Masters Thesis
   url: https://rpubs.com/bbs5179/337764
   description: Short blurb about this assignment
+
+# Link to Rubs for more Reports, Assignments and Project
+- project: Link to Rpubs for more Reports, Assignments and Project
+  role: 
+  url: http://rpubs.com/bms63
+  description: Link to Rpubs for more Reports, Assignments and Project
