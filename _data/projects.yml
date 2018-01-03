@@ -35,16 +35,16 @@
 - project: K-means and Kernel Ridge Regression
   role: Masters Thesis
   url: https://rpubs.com/bbs5179/337764
-  description: Short blurb about this assignment
+  description: Exploring techniques to reduce computation time in Kernel Ridge Regression
 
-# Link to Rubs for more Reports, Assignments and Project
-- project: Link to Rpubs for more Reports, Assignments and Project
+# List of more Reports, Assignments and Projects
+- project: List of more Reports, Assignments and Projects
   role: 
   url: http://rpubs.com/bms63
-  description: Link to Rpubs for more Reports, Assignments and Project
+  description: 
 
-# Link to Completed Online Classes
-- project: Link to Completed Online Classes
+# List of Completed Online Classes
+- project: List of Completed Online Classes
   role: 
   url: http://rpubs.com/bms63/345899
-  description: Link to Completed Online Classes
+  description: 
