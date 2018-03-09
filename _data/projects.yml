@@ -19,12 +19,6 @@
   url: http://rpubs.com/bms63/344762
   description: Data cleaning and processing, variable selection through exploratory data analysis, ANOVA
 
-# Doves in Missouri
-- project: Doves in Missouri
-  role: Assignment for Spatial Statistics
-  url: http://rpubs.com/bms63/344748
-  description: Spatial statistics, bayesian modelling, gibbs sampler, MCMC
-
 # Wine Quality
 - project: Wine Quality
   role: Assignment for Regression Models
