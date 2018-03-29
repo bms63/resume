@@ -31,6 +31,12 @@
   url: https://benstraub.shinyapps.io/Shiny_Part_KRR/
   description: Exploring techniques to reduce computation time in Kernel Ridge Regression
 
+# Shiny App for Predictive Text 
+- project: Shiny App for Predictive Text 
+  role: Coursera Capstone
+  url:  https://benstraub.shinyapps.io/capstone_text_prediction_app/
+  description: Using twitter, blog and news text I created a predictive text model using the Backoff Algorithm
+
 # List of more Reports, Assignments and Projects
 - project: List of more Reports, Assignments and Projects
   role: 
