@@ -25,6 +25,12 @@
   url: http://rpubs.com/bms63/345891
   description: Masters Applied Qualifying Exam
 
+# Spatio-Temporal Condtionally Autoregressive (CAR) models for Areal Data
+- project: Spatio-Temporal Condtionally Autoregressive (CAR) models for Areal Data
+  role: Project for Spatial Statistics
+  url: https://rpubs.com/bms63/346190
+  description: Understanding Areal Data through CAR models.
+
 # Shiny App of a simple Kernel Ridge Regression Problem
 - project: Shiny App of a simple Kernel Ridge Regression Problem
   role: Masters Thesis
