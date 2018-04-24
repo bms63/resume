@@ -1,8 +1,17 @@
 # Skills
 # R and Rstudio
 - skill: R and Rstudio
-  description: Extensive use of R and Rstudio to create dynamic and concise reports/analysis.
+  description: Expert user of R packages glmnet, klaR, car, ggplot2, igraph, tidyverse, RSQLite, caret, e1071 and kernlab to visualize and solve complex problems
 
-# SAS, Minitab, Python, Github
-- skill: SAS, Minitab, Python
-  description: Limited experience with above
+# Python
+- skill: Python
+  description: Intermediate user of the Python Libraries Pandas, Numpy, Scipy, Matplotlib, and Scikit-Learn
+
+# SAS
+- skill: SAS
+  description: Experienced user of DATA and PROC steps to bring in data and analyze.
+
+
+# Other
+- skill: SQL, CLI, Git(hub), Matlab
+  description: Experienced user of the above.
